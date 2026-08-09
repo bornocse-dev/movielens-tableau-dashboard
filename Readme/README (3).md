@@ -2,7 +2,7 @@
 
 An interactive Tableau dashboard exploring movie ratings, genre performance, and user engagement using the MovieLens dataset.
 
-![Dashboard Preview](dashboard_preview.png)
+
 
 ## 📊 Project Overview
 
@@ -53,22 +53,4 @@ Stacked bar chart of the top-10 most prolific raters by user ID, colored by genr
 - Reliability matters: without the 50+ rating filter, several obscure films with a single 5-star vote would have outranked genuine classics.
 - The most active users aren't necessarily genre specialists — several rate broadly across Action, Drama, and Sci-Fi rather than sticking to one lane.
 
-## 🚀 View the Dashboard
 
-**Tableau Public:** *[add your published link here]*
-
-## 📁 Repo Structure
-
-```
-movielens-tableau-dashboard/
-├── data/
-│   ├── movies.csv
-│   ├── ratings.csv
-│   └── tags.csv
-├── dashboard_preview.png
-└── README.md
-```
-
-## 👤 Author
-
-Borno — [GitHub](https://github.com/bornocse-dev)
